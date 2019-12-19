@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customers
+comment1.params=
+comment1.target=Customers()
+comment2.params=name
+comment2.target=void\ add(java.lang.String)
+comment3.params=id
+comment3.target=Customer\ find(int)
+numComments=4

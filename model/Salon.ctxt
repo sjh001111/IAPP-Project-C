@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Salon
+comment1.params=
+comment1.target=Salon()
+comment2.params=hairDresser\ customer\ service
+comment2.target=void\ booking(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ report()
+comment4.params=
+comment4.target=HairDressers\ hairDressers()
+comment5.params=
+comment5.target=Customers\ customers()
+comment6.params=
+comment6.target=Services\ services()
+comment7.params=
+comment7.target=java.util.LinkedList\ bookings()
+numComments=8

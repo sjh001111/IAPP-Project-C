@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HairDressingWindow
+comment1.params=salon
+comment1.target=HairDressingWindow(model.Salon)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=salon
+comment3.target=void\ build(model.Salon)
+numComments=4
